@@ -1,2 +1,1 @@
-# ENM2-1200
-Bilgisayar Programlama dersi ders içerikleri
+İskenderun Teknik Üniversitesi, Mühendislik ve Doğa Bilimleri Fakültesi Biyomedikal Mühendisliği (BYM2-1200), Endüstri Mühendisliği (ENM2-1200) ve Metalurji ve Malzeme Mühendisliği (MMM2-2414) bölümlerinde verilen "Bilgisayar Programlama" dersine ait ders notlarını içermektedir. 
